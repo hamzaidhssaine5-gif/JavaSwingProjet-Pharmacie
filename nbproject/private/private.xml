@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/mini-projet/src/service/FournisseurService.java</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/mini-projet/src/entities/Vente.java</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/mini-projet/src/service/MedicamentService.java</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/mini-projet/src/connection/DBConnection.java</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/mini-projet/src/ui/GrapheFrame.java</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/mini-projet/src/ui/Login.java</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/mini-projet/src/service/VenteService.java</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/mini-projet/src/ui/VenteForm.java</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/mini-projet/src/app/Main.java</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/mini-projet/src/entities/Medicament.java</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/mini-projet/src/ui/MedicamentForm.java</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/mini-projet/src/entities/Fournisseur.java</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/mini-projet/src/dao/UserDao.java</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/mini-projet/src/ui/Main.java</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/mini-projet/src/dao/IDao.java</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/mini-projet/src/ui/FournisseurForm.java</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/mini-projet/src/service/UserService.java</file>
+        </group>
+    </open-files>
+</project-private>
